@@ -1,0 +1,3 @@
+[submodule "android-bootstrap"]
+	path = android-bootstrap
+	url = https://github.com/AndroidBootstrap/android-bootstrap.git

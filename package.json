@@ -1,0 +1,24 @@
+{
+  "name": "Zeta-bootstrap",
+  "description": "An Android App generator for bootstrapping an Android App",
+  "author": "",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.5.1",
+    "jade": "*",
+    "wrench": "*",
+    "async": "*",
+    "tmp": "*",
+    "fs-extra" : "*",
+    "node-native-zip": "git://github.com/donnfelker/node-native-zip.git#master"
+  },
+    "repository": "https://github.com/donnfelker/android-bootstrap-site.git",
+  "engines": {
+    "node": "6.9.x",
+    "npm": "4.0.3"
+  }
+}
